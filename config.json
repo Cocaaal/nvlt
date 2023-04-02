@@ -1,0 +1,6 @@
+{
+  "app_id": "593844",
+  "client_secret": "ab59ffdcb2592d844a3ef04cdf64b938",
+  "redirect_uri": "http://127.0.0.1:5000/callback",
+  "user_id": "3977432222"
+}
